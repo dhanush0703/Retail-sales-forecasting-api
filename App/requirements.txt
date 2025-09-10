@@ -1,0 +1,6 @@
+fastapi 
+pydantic
+BaseModel
+joblib
+Optional
+pandas
